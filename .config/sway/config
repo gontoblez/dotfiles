@@ -239,4 +239,8 @@ client.unfocused            #aaaaaa #2f343f #d8dee8 #f3bce6   #24273a
 client.urgent               #2f343f #2f343f #d8dee8 #f3bce6   #f3bce6
 client.placeholder          #2f343f #2f343f #d8dee8 #f3bce6   #2f343f
 
+## GAPS
+smart_gaps on
+gaps inner 10
+
 include /etc/sway/config.d/*
