@@ -230,4 +230,13 @@ bindsym XF86MonBrightnessDown exec brightnessctl set 10%-
 ### WIDTH
 default_border pixel 2
 
+## COLOR
+### Catppuccin
+# Property Name             Border  BG      Text    Indicator Child-border
+client.focused              #c29df1 #2f343f #d8dee8 #f3bce6   #c29df1
+client.focused_inactive     #aac9e5 #2f343f #d8dee8 #f3bce6   #24273a
+client.unfocused            #aaaaaa #2f343f #d8dee8 #f3bce6   #24273a
+client.urgent               #2f343f #2f343f #d8dee8 #f3bce6   #f3bce6
+client.placeholder          #2f343f #2f343f #d8dee8 #f3bce6   #2f343f
+
 include /etc/sway/config.d/*
