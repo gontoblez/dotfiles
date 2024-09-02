@@ -1,0 +1,14 @@
+width = 100%
+height = 100%
+border-width = 0
+outline-width = 0
+padding-left = 35%
+padding-top = 25%
+result-spacing = 25
+num-results = 6
+font = /usr/share/fonts/TTF/IosevkaNerdFont-Medium.ttf
+background-color = #000A
+
+prompt-text = "❯ "
+text-cursor-style = underscore
+selection-color = #14BEEB
